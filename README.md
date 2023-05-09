@@ -10,7 +10,7 @@ BeautifulSoup, HTML ve XML gibi belgeleri işlemek için Python programlama dili
 Kütüphaneyi indirmek için:
 " pip install beautifulsoup4 " kodunu yazabilirsiniz terminalinize.
 
-Projeyi çalıştırmak için: 
-eğer sisteminizde python2 var ise python3 kullanarak -> " python3 deprem_takibi.py "
-eğer sisteminizde sadece python3 var ise (örnek : microsoft store'dan sadece python3 indirdiyseniz) -> " python deprem_takibi.py "
+Projeyi çalıştırmak için: <br>
+eğer sisteminizde python2 var ise python3 kullanarak -> " python3 deprem_takibi.py "<br>
+eğer sisteminizde sadece python3 var ise (örnek : microsoft store'dan sadece python3 indirdiyseniz) -> " python deprem_takibi.py "<br>
 komutlarını kullanarak projeyi çalıştırabiirsiniz.
