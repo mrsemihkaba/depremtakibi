@@ -7,6 +7,8 @@ Ayrıca, projenin kullanımı için gerekli olan BeautifulSoup kütüphanesi:
 
 BeautifulSoup, HTML ve XML gibi belgeleri işlemek için Python programlama diliyle yazılmış bir kütüphanedir. Bu kütüphane sayesinde web sayfalarından veri çekmek oldukça kolay hale gelir. Proje, BeautifulSoup kütüphanesi kullanılarak web scraping yapmaktadır. Bu nedenle, projeyi çalıştırmadan önce BeautifulSoup kütüphanesinin kurulu olması gerekmektedir. Kurulum için pip paket yöneticisini kullanabilirsiniz.
 
+## Proje Python3 üzerine hazırlanmıştır.
+
 Kütüphaneyi indirmek için:
 " pip install beautifulsoup4 " kodunu yazabilirsiniz terminalinize.
 
@@ -15,4 +17,4 @@ eğer sisteminizde python2 var ise python3 kullanarak -> " python3 deprem_takibi
 eğer sisteminizde sadece python3 var ise (örnek : microsoft store'dan sadece python3 indirdiyseniz) -> " python deprem_takibi.py "<br>
 komutlarını kullanarak projeyi çalıştırabiirsiniz.
 
-## Proje Python3 üzerine hazırlanmıştır.
+
