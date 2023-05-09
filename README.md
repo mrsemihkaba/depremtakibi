@@ -14,3 +14,5 @@ Projeyi çalıştırmak için: <br>
 eğer sisteminizde python2 var ise python3 kullanarak -> " python3 deprem_takibi.py "<br>
 eğer sisteminizde sadece python3 var ise (örnek : microsoft store'dan sadece python3 indirdiyseniz) -> " python deprem_takibi.py "<br>
 komutlarını kullanarak projeyi çalıştırabiirsiniz.
+
+##Proje Python3 üzerine hazırlanmıştır.
